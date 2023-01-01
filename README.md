@@ -4,8 +4,8 @@ This repository contains a collection of short stories that I have written.
 
 ## Table of Contents
 
-- [Simpsons - Homer Goes Undercover](#homerGoesUndercover)
-- [Simpsons - Homer's Lucky Break](#homersLuckyBreak)
+- [Simpsons - Homer Goes Undercover](homerGoesUndercover.md)
+- [Simpsons - Homer's Lucky Break](homersLuckyBreak.md)
 
 
 ## License
